@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.749,=E:\Bionluk\2021\Lojistik\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=E:\Bionluk\2021\Lojistik\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,=E:\Bionluk\2021\Lojistik\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,E:\Bionluk\2021\Lojistik\untsofor.dfm=E:\Bionluk\2021\Lojistik\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,E:\Bionluk\2021\Lojistik\unit1.pas=E:\Bionluk\2021\Lojistik\UntMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=E:\Projeler\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,E:\Bionluk\2021\Lojistik\UntAracTip.pas=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,E:\Bionluk\2021\Lojistik\untsplash.dfm=E:\Bionluk\2021\Lojistik\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,E:\Bionluk\2021\Lojistik\unttasima.dfm=E:\Bionluk\2021\Lojistik\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,E:\Bionluk\2021\Lojistik\FrmMain.dfm=E:\Projeler\Delphi\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,E:\Bionluk\2021\Lojistik\Unit2.pas=E:\Bionluk\2021\Lojistik\untkullanici.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,E:\Bionluk\2021\Lojistik\untsplash.pas=E:\Bionluk\2021\Lojistik\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,E:\Bionluk\2021\Lojistik\untsofor.pas=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,E:\Bionluk\2021\Lojistik\UntMain.pas=E:\Bionluk\2021\Lojistik\FrmMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,E:\Bionluk\2021\Lojistik\UntMain.dfm=E:\Bionluk\2021\Lojistik\FrmMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,E:\Bionluk\2021\Lojistik\UntMain.dfm=E:\Bionluk\2021\Lojistik\UntGiris.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,=E:\Bionluk\2021\Lojistik\UntMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,E:\Bionluk\2021\Lojistik\Unit2.dfm=E:\Bionluk\2021\Lojistik\untkullanici.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,E:\Bionluk\2021\Lojistik\FrmMain.pas=E:\Projeler\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,E:\Bionluk\2021\Lojistik\UntMain.pas=E:\Bionluk\2021\Lojistik\UntGiris.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,E:\Bionluk\2021\Lojistik\LojistikPrj.dproj=E:\Projeler\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,E:\Bionluk\2021\Lojistik\UntAracTip.dfm=E:\Bionluk\2021\Lojistik\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,E:\Bionluk\2021\Lojistik\UntAraclar.dfm=E:\Bionluk\2021\Lojistik\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,E:\Bionluk\2021\Lojistik\unttasima.pas=E:\Bionluk\2021\Lojistik\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,E:\Bionluk\2021\Lojistik\UntAraclar.pas=E:\Bionluk\2021\Lojistik\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,E:\Bionluk\2021\Lojistik\unit1.dfm=E:\Bionluk\2021\Lojistik\UntMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
