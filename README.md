@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fatih1997
-- 👀 I’m interested in Java back-end development , Python 
+- 👀 I’m interested in Java back-end development
 - 🌱 I’m currently learning Javascript , React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
